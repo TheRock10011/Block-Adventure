@@ -89,7 +89,7 @@ class MyGame(arcade.Window):
 
         # -- Set up the walls
         # Create a row of boxes
-        self.LoadLevel(2)
+        self.LoadLevel(10)
         
 
         
